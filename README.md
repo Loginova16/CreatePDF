@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Kazantsev27/CreatePDF.svg?branch=master)](https://travis-ci.com/Kazantsev27/CreatePDF)
+[![Build Status](https://app.travis-ci.com/Loginova16/CreatePDF.svg?branch=master)](https://app.travis-ci.com/Loginova16/CreatePDF)
 
 # CreatePDF
 Версия 1.3 от 8 мая:
